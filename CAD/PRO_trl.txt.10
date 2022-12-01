@@ -1,0 +1,517 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditRedefFeat.
+!sket_eps                 6
+!sket_eps       1.250691243
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Extrude
+!ODUI session started.
+!%CPSelect a plane or planar surface as the sketching plane, or select a sketch.
+!mem_use INCREASE Blocks 1096032, AppSize 64663493, SysSize 92930200
+~ Trail `UI Desktop` `UI Desktop` `UIT_HELPTEXT_DLG` \
+ `PopupObj Resize$by$Direction$vect$Dragger@new_extr_dragger@EXTRUSION `
+~ LButtonArm `main_dlg_cur` `proe_win` 9 936 114 0 1 1560 763 1920 1080 98980
+!Dragger (Resize by Direction vect Dragger) start dragging
+~ Move `main_dlg_cur` `proe_win` 9 936 114 0 1 1560 763 1920 1080 98983
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 936 114 0 0 1560 763 1920 1080 99045
+!Dragger (Resize by Direction vect Dragger) end dragging
+!Moved by  0.000000, 0.000000
+~ LButtonArm `main_dlg_cur` `proe_win` 9 936 114 0 129 1560 763 1920 1080 99180
+@ sel view 0
+ 4.716501 0.876686 -0.024087 -0.671649 3.525961 -3.182927
+ -0.563957 3.132660 3.589281 455.810900 244.150023 -1636.848904 1.250000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel stop
+@ sel stop
+!Embed Edit (Resize by Direction vect Dragger) start edit
+~ Move `main_dlg_cur` `proe_win` 9 936 114 0 1 1560 763 1920 1080 99230
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 936 114 0 0 1560 763 1920 1080 99245
+~ Update `main_dlg_cur` `GrmTextTagEmbedMRU` `20`
+~ Activate `main_dlg_cur` `GrmTextTagEmbedMRU`
+!Embed Edit (Resize by Direction vect Dragger) finished edit (Applied)
+!New Value is 20
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating FRONT_ATTACK feature 5 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 6 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 7 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 8 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 9 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 10 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 11 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 12 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 13 out of 19 ...
+!%CWReference for the section entity no longer exists.
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 14 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 15 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 16 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 17 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 18 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 19 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIFRONT_ATTACK regeneration completed with atypical feature or component status. Failed: 1. Child of Failed: 6. 
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 404 type 5300 
+!%CIFeature redefined successfully.
+!F5(EXTRUDE_1)
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 7`
+!Extrude 2
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `T3 7`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Extrude
+!ODUI session started.
+!%CPSelect a plane or planar surface as the sketching plane, or select a sketch.
+~ Trail `UI Desktop` `UI Desktop` `UIT_HELPTEXT_DLG` \
+ `PopupObj Resize$by$Direction$vect$Dragger@new_extr_dragger@EXTRUSION `
+~ LButtonArm `main_dlg_cur` `proe_win` 9 852 664 0 1 1560 763 1920 1080 109735
+~ Move `main_dlg_cur` `proe_win` 9 852 664 0 1 1560 763 1920 1080 109736
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 852 664 0 0 1560 763 1920 1080 109782
+@sel_pz_xyz 579.6199213630 109.4773918742 579.9653918713 -143.7135529213 1913.3357980599
+@ sel view 0
+ 11.842414 2.201226 -0.060480 -1.686407 8.853151 -7.991844
+ -1.416010 7.865630 9.012136 389.047909 -24.365311 -2196.542165 0.497840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 852 664 0 129 1560 763 1920 1080 109924
+@ sel view 0
+ 11.842414 2.201226 -0.060480 -1.686407 8.853151 -7.991844
+ -1.416010 7.865630 9.012136 389.047909 -24.365311 -2196.542165 0.497840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel stop
+@ sel stop
+** 0.579620 0.128440 0 64 64
+0.579965 -0.145935 E 0 0.904296296 0
+@ sel view 0
+ 11.842414 2.201226 -0.060480 -1.686407 8.853151 -7.991844
+ -1.416010 7.865630 9.012136 389.047909 -24.365311 -2196.542165 0.497840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 852 664 0 0 1560 763 1920 1080 110000
+~ Trail `UI Desktop` `UI Desktop` `UIT_HELPTEXT_DLG` \
+ `PopupObj Resize$by$Direction$vect$Dragger@new_extr_dragger@EXTRUSION `
+~ LButtonArm `main_dlg_cur` `proe_win` 9 847 658 0 1 1560 763 1920 1080 110635
+!Dragger (Resize by Direction vect Dragger) start dragging
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 847 658 0 0 1560 763 1920 1080 110716
+!Dragger (Resize by Direction vect Dragger) end dragging
+!Moved by  0.000000, 0.000000
+~ LButtonArm `main_dlg_cur` `proe_win` 9 847 658 0 129 1560 763 1920 1080 110821
+@ sel view 0
+ 11.842414 2.201226 -0.060480 -1.686407 8.853151 -7.991844
+ -1.416010 7.865630 9.012136 389.047909 -24.365311 -2196.542165 0.497840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel stop
+@ sel stop
+!Embed Edit (Resize by Direction vect Dragger) start edit
+~ Move `main_dlg_cur` `proe_win` 9 847 658 0 1 1560 763 1920 1080 110865
+~ Move `main_dlg_cur` `proe_win` 9 847 658 0 1 1560 763 1920 1080 110875
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 847 658 0 0 1560 763 1920 1080 110908
+~ Update `main_dlg_cur` `GrmTextTagEmbedMRU` `20`
+~ Activate `main_dlg_cur` `GrmTextTagEmbedMRU`
+!Embed Edit (Resize by Direction vect Dragger) finished edit (Applied)
+!New Value is 20
+~ Move `main_dlg_cur` `proe_win` 9 1081 613 33554432 0 1560 763 1920 1080 114205
+~ Key `main_dlg_cur` `proe_win` 9 1081 613 39452698 0 1560 763 1920 1080 114205 `Ctrl+Z`
+~ Command `ProCmdEditUndo` 
+! Executed sub-command ProCmdEditUndoSket.
+~ Move `main_dlg_cur` `proe_win` 9 1081 613 0 0 1560 763 1920 1080 114748
+~ Activate `extrev_1_placement.0.0` `PH.Sketch`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Sketch
+!ODUI session started.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 883 375 0 1 1560 763 1920 1080 119493
+@sel_pz_xyz 613.9007208388 429.0629095675 648.8244793161 498.2308429335 1913.3357980607
+** 0.613901 0.507208 0 1 1
+0.648824 0.496010 L 0 0.904296296 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 883 375 0 0 1560 763 1920 1080 119542
+@sel_pz_xyz 613.9007208388 429.0629095675 648.8244793161 498.2308429335 1913.3357980607
+@ sel view 0
+ 11.842414 2.201226 -0.060480 -1.686407 8.853151 -7.991844
+ -1.416010 7.865630 9.012136 389.047909 -24.365311 -2196.542165 0.497840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+1 10 1 1 1 6 4
+@ sel2d 0 SKETCH_DIM 
+1 10 1 1 1 6 4
+@ stack idx 0
+!sd1 = 99.06  (Weak)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 883 375 0 129 1560 763 1920 1080 119646
+@ sel view 0
+ 11.842414 2.201226 -0.060480 -1.686407 8.853151 -7.991844
+ -1.416010 7.865630 9.012136 389.047909 -24.365311 -2196.542165 0.497840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+1 10 1 1 1 6 4
+** 0.613901 0.507208 0 64 64
+0.648824 0.496010 E 0 0.904296296 0
+~ Move `main_dlg_cur` `proe_win` 9 883 375 0 1 1560 763 1920 1080 119672
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 883 375 0 0 1560 763 1920 1080 119707
+~ Update `main_dlg_cur` `mod_dim_emb` `20`
+~ Activate `main_dlg_cur` `mod_dim_emb`
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating FRONT_ATTACK feature 6 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 7 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 8 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 9 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 10 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 11 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 12 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 13 out of 19 ...
+!%CWReference for the section entity no longer exists.
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 14 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 15 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 16 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 17 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 18 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 19 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIFRONT_ATTACK regeneration completed with atypical feature or component status. Failed: 1. Child of Failed: 6. 
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 408 type 5300 
+!%CIFeature redefined successfully.
+!F6(EXTRUDE_2)
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 9`
+!Extrude 3
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!sket_eps      0.4981151777
+!sket_eps       1.250691243
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Extrude
+!ODUI session started.
+!%CPSelect a plane or planar surface as the sketching plane, or select a sketch.
+~ Activate `extrev_1_placement.0.0` `PH.Sketch`
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Sketch
+!ODUI session started.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 816 307 0 1 1560 763 1920 1080 130445
+@sel_pz_xyz 539.8099606815 504.2595019659 500.0000000004 588.9724816309 994.9187796368
+** 0.539810 0.596330 0 1 1
+0.500000 0.587340 L 0 0.904296296 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 816 307 0 0 1560 763 1920 1080 130524
+@sel_pz_xyz 539.8099606815 504.2595019659 500.0000000004 588.9724816309 994.9187796368
+@ sel view 0
+ 8.701952 1.617488 -0.044441 -1.239193 6.505405 -5.872505
+ -1.040501 5.779762 6.622229 418.471039 93.972128 -2025.070122 0.677506 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+1 10 1 1 1 6 4
+@ sel2d 0 SKETCH_DIM 
+1 10 1 1 1 6 4
+@ stack idx 0
+!sd1 = 100.81  (Weak)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 816 307 0 129 1560 763 1920 1080 130642
+@ sel view 0
+ 8.701952 1.617488 -0.044441 -1.239193 6.505405 -5.872505
+ -1.040501 5.779762 6.622229 418.471039 93.972128 -2025.070122 0.677506 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+1 10 1 1 1 6 4
+** 0.539810 0.596330 0 64 64
+0.500000 0.587340 E 0 0.904296296 0
+~ Move `main_dlg_cur` `proe_win` 9 816 307 0 1 1560 763 1920 1080 130666
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 816 307 0 0 1560 763 1920 1080 130695
+~ Update `main_dlg_cur` `mod_dim_emb` `20`
+~ Activate `main_dlg_cur` `mod_dim_emb`
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating FRONT_ATTACK feature 7 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 8 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 9 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 10 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 11 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 12 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 13 out of 19 ...
+!%CWReference for the section entity no longer exists.
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 14 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 15 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 16 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 17 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 18 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIRegenerating FRONT_ATTACK feature 19 out of 19 ...
+!%CEFeature regeneration failed.
+!%CIFRONT_ATTACK regeneration completed with atypical feature or component status. Failed: 1. Child of Failed: 6. 
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 412 type 5300 
+!%CIFeature redefined successfully.
+!F7(EXTRUDE_3)
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1219 565 0 1 1560 763 1920 1080 135880
+~ Move `main_dlg_cur` `proe_win` 9 1216 550 0 1537 1560 763 1920 1080 135959
+~ Move `main_dlg_cur` `proe_win` 9 1190 474 0 1537 1560 763 1920 1080 136027
+~ Move `main_dlg_cur` `proe_win` 9 1184 464 0 1537 1560 763 1920 1080 136062
+~ Move `main_dlg_cur` `proe_win` 9 1181 462 0 1537 1560 763 1920 1080 136094
+~ Move `main_dlg_cur` `proe_win` 9 1179 460 0 1537 1560 763 1920 1080 136127
+~ Move `main_dlg_cur` `proe_win` 9 1177 457 0 1537 1560 763 1920 1080 136162
+~ Move `main_dlg_cur` `proe_win` 9 1174 454 0 1537 1560 763 1920 1080 136194
+~ Move `main_dlg_cur` `proe_win` 9 1171 453 0 1537 1560 763 1920 1080 136231
+~ Move `main_dlg_cur` `proe_win` 9 1168 451 0 1537 1560 763 1920 1080 136261
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1168 451 0 0 1560 763 1920 1080 136331
+@ sel view 0
+ 8.218707 1.527664 -0.041973 -1.170377 6.144140 -5.546388
+ -0.982719 5.458795 6.254477 422.998583 112.181544 -2226.181243 0.717342 0.000000 0
+~ Activate `nmgr_light_dlg` `CloseBTN`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 17`
+!Extrude 8
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!sket_eps        1.18123666
+!%CESection regeneration failed.  Ambiguous sketch.
+!%CWReference for the section entity no longer exists.
+!sket_eps       1.250691243
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Extrude
+!ODUI session started.
+!%CWReference for the section entity no longer exists.
+!%CESection regeneration failed.  Ambiguous sketch.
+!%CWReference for the section entity no longer exists.
+!%CWReference for the section entity no longer exists.
+!%CPSelect a plane or planar surface as the sketching plane, or select a sketch.
+!%CWReference for the section entity no longer exists.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 857 234 0 1 1560 763 1920 1080 149098
+@ sec ent vert
+@ sel view 0
+ 8.218707 1.527664 -0.041973 -1.170377 6.144140 -5.546388
+ -0.982719 5.458795 6.254477 422.998583 112.181544 -2226.181243 0.717342 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 LINE 
+5 4
+!Dragger (flip arrow dragger) start dragging
+~ Move `main_dlg_cur` `proe_win` 9 857 234 0 1 1560 763 1920 1080 149104
+~ Move `main_dlg_cur` `proe_win` 9 855 241 0 1537 1560 763 1920 1080 149188
+!%CWReference for the section entity no longer exists.
+~ Move `main_dlg_cur` `proe_win` 9 848 294 0 1537 1560 763 1920 1080 149253
+!%CWReference for the section entity no longer exists.
+~ Move `main_dlg_cur` `proe_win` 9 844 305 0 1537 1560 763 1920 1080 149285
+!%CWReference for the section entity no longer exists.
+~ Move `main_dlg_cur` `proe_win` 9 843 313 0 1537 1560 763 1920 1080 149319
+!%CWReference for the section entity no longer exists.
+~ Move `main_dlg_cur` `proe_win` 9 842 321 0 1537 1560 763 1920 1080 149352
+!%CWReference for the section entity no longer exists.
+~ Move `main_dlg_cur` `proe_win` 9 838 343 0 1537 1560 763 1920 1080 149487
+!%CWReference for the section entity no longer exists.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 838 343 0 0 1560 763 1920 1080 149657
+!Dragger (flip arrow dragger) end dragging
+!Moved by  -21.010813, -120.535714
+!%CWReference for the section entity no longer exists.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 877 177 0 1 1560 763 1920 1080 150532
+!Dragger (flip arrow dragger) start dragging
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 877 177 0 0 1560 763 1920 1080 150626
+!Dragger (flip arrow dragger) end dragging
+!Moved by  0.000000, 0.000000
+!%CWReference for the section entity no longer exists.
+~ Activate `extrev_1_placement.0.0` `PH.Sketch`
+!%CESection regeneration failed.  Ambiguous sketch.
+!%CWReference for the section entity no longer exists.
+!%CESection regeneration failed.  Ambiguous sketch.
+!%CWReference for the section entity no longer exists.
+!%CESection regeneration failed.  Ambiguous sketch.
+!%CWReference for the section entity no longer exists.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Sketch
+!ODUI session started.
+!%CESection regeneration failed.  Ambiguous sketch.
+!%CWReference for the section entity no longer exists.
+!%CEUnable to regenerate section with current 3D references;using old geometry
+!Command ProCmdSketReferences was pushed from the software.
+!%CPSelect a perpendicular surface, an edge, or vertex relative to which the section will be dimensioned and constrained.
+~ Activate `references` `Close`
+!%CIMissing references were deleted.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+!%CPSelect a plane or planar surface as the sketching plane, or select a sketch.
+~ HTMLEnter `main_dlg_cur` `dashboard_page_0|dashboard_help_0|0.read_more`
+~ HTMLExit `main_dlg_cur` `dashboard_page_0|dashboard_help_0|0.read_more`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 866 320 0 1 1560 763 1920 1080 158334
+~ Move `main_dlg_cur` `proe_win` 9 866 320 0 1 1560 763 1920 1080 158335
+~ Move `main_dlg_cur` `proe_win` 9 866 315 0 1025 1560 763 1920 1080 158409
+~ Move `main_dlg_cur` `proe_win` 9 866 303 0 1025 1560 763 1920 1080 158416
+~ Move `main_dlg_cur` `proe_win` 9 865 291 0 1537 1560 763 1920 1080 158424
+~ Move `main_dlg_cur` `proe_win` 9 865 278 0 1025 1560 763 1920 1080 158433
+~ Move `main_dlg_cur` `proe_win` 9 865 266 0 1025 1560 763 1920 1080 158439
+~ Move `main_dlg_cur` `proe_win` 9 865 253 0 1025 1560 763 1920 1080 158446
+~ Move `main_dlg_cur` `proe_win` 9 864 244 0 1537 1560 763 1920 1080 158455
+~ Move `main_dlg_cur` `proe_win` 9 863 236 0 1537 1560 763 1920 1080 158461
+~ Move `main_dlg_cur` `proe_win` 9 862 229 0 1537 1560 763 1920 1080 158468
+~ Move `main_dlg_cur` `proe_win` 9 862 225 0 1025 1560 763 1920 1080 158475
+~ Move `main_dlg_cur` `proe_win` 9 861 222 0 1537 1560 763 1920 1080 158483
+~ Move `main_dlg_cur` `proe_win` 9 860 220 0 1537 1560 763 1920 1080 158491
+~ Move `main_dlg_cur` `proe_win` 9 859 218 0 1537 1560 763 1920 1080 158497
+~ Move `main_dlg_cur` `proe_win` 9 858 216 0 1537 1560 763 1920 1080 158505
+~ Move `main_dlg_cur` `proe_win` 9 858 215 0 1025 1560 763 1920 1080 158513
+~ Move `main_dlg_cur` `proe_win` 9 858 213 0 1025 1560 763 1920 1080 158520
+~ Move `main_dlg_cur` `proe_win` 9 858 211 0 1025 1560 763 1920 1080 158528
+~ Move `main_dlg_cur` `proe_win` 9 856 211 0 513 1560 763 1920 1080 158539
+~ Move `main_dlg_cur` `proe_win` 9 856 210 0 1025 1560 763 1920 1080 158545
+~ Move `main_dlg_cur` `proe_win` 9 856 209 0 1025 1560 763 1920 1080 158550
+~ Move `main_dlg_cur` `proe_win` 9 855 209 0 513 1560 763 1920 1080 158586
+~ Move `main_dlg_cur` `proe_win` 9 854 209 0 513 1560 763 1920 1080 158600
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 854 209 0 0 1560 763 1920 1080 158705
+~ LButtonArm `main_dlg_cur` `proe_win` 9 389 534 0 1 1560 763 1920 1080 161212
+~ Move `main_dlg_cur` `proe_win` 9 390 531 0 1537 1560 763 1920 1080 161313
+~ Move `main_dlg_cur` `proe_win` 9 391 530 0 1537 1560 763 1920 1080 161322
+~ Move `main_dlg_cur` `proe_win` 9 392 528 0 1537 1560 763 1920 1080 161330
+~ Move `main_dlg_cur` `proe_win` 9 394 524 0 1537 1560 763 1920 1080 161338
+~ Move `main_dlg_cur` `proe_win` 9 396 521 0 1537 1560 763 1920 1080 161346
+~ Move `main_dlg_cur` `proe_win` 9 396 519 0 1025 1560 763 1920 1080 161354
+~ Move `main_dlg_cur` `proe_win` 9 400 513 0 1537 1560 763 1920 1080 161362
+~ Move `main_dlg_cur` `proe_win` 9 402 507 0 1537 1560 763 1920 1080 161370
+~ Move `main_dlg_cur` `proe_win` 9 403 502 0 1537 1560 763 1920 1080 161378
+~ Move `main_dlg_cur` `proe_win` 9 405 497 0 1537 1560 763 1920 1080 161380
+~ Move `main_dlg_cur` `proe_win` 9 406 494 0 1537 1560 763 1920 1080 161387
+~ Move `main_dlg_cur` `proe_win` 9 407 490 0 1537 1560 763 1920 1080 161395
+~ Move `main_dlg_cur` `proe_win` 9 408 488 0 1537 1560 763 1920 1080 161405
+~ Move `main_dlg_cur` `proe_win` 9 408 486 0 1025 1560 763 1920 1080 161413
+~ Move `main_dlg_cur` `proe_win` 9 408 485 0 1025 1560 763 1920 1080 161422
+~ Move `main_dlg_cur` `proe_win` 9 408 483 0 1025 1560 763 1920 1080 161424
+~ Move `main_dlg_cur` `proe_win` 9 408 482 0 1025 1560 763 1920 1080 161438
+~ Move `main_dlg_cur` `proe_win` 9 408 481 0 1025 1560 763 1920 1080 161446
+~ Move `main_dlg_cur` `proe_win` 9 408 480 0 1025 1560 763 1920 1080 161474
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 408 480 0 0 1560 763 1920 1080 161596
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` `0`
+~ Trigger `extrev_1_placement.0.0` `PH.section_select_list` ``
+~ Input `main_dlg_cur` `maindashInst0.def_depth1_ip` `2`
+~ Input `main_dlg_cur` `maindashInst0.def_depth1_ip` `20`
+~ Update `main_dlg_cur` `maindashInst0.def_depth1_ip` `20`
+~ Activate `main_dlg_cur` `maindashInst0.def_depth1_ip`
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ FocusOut `main_dlg_cur` `maindashInst0.def_depth1_ip`
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating FRONT_ATTACK feature 13 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 14 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 15 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 16 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 17 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 18 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 19 out of 19 ...
+!%CPWarning: Design intent is unclear. Use Geometry Checks command on the Tools Tab for more information.
+!%CIFRONT_ATTACK regeneration completed successfully.
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 416 type 5300 
+!%CIFeature redefined successfully.
+!F13(EXTRUDE_8)
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 19`
+!Extrude 9
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!sket_eps      0.7208289111
+!sket_eps       1.250691243
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Extrude
+!ODUI session started.
+!%CPSelect a plane or planar surface as the sketching plane, or select a sketch.
+~ Input `main_dlg_cur` `maindashInst0.def_depth1_ip` `2`
+~ Input `main_dlg_cur` `maindashInst0.def_depth1_ip` `20`
+~ Update `main_dlg_cur` `maindashInst0.def_depth1_ip` `20`
+~ Activate `main_dlg_cur` `maindashInst0.def_depth1_ip`
+~ FocusOut `main_dlg_cur` `maindashInst0.def_depth1_ip`
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating FRONT_ATTACK feature 14 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 15 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 16 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 17 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 18 out of 19 ...
+!%CIRegenerating FRONT_ATTACK feature 19 out of 19 ...
+!%CPWarning: Design intent is unclear. Use Geometry Checks command on the Tools Tab for more information.
+!%CIFRONT_ATTACK regeneration completed successfully.
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 425 type 5300 
+!%CIFeature redefined successfully.
+!F14(EXTRUDE_9)
+~ Move `main_dlg_cur` `proe_win` 9 609 294 33554432 0 1560 763 1920 1080 177472
+>M Chain_oa_sel_CB ProeWin0 609 294 c0 20000 1560 0 0 763 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 609 294 38993939 0 1560 763 1920 1080 177472 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+!%CIFRONT_ATTACK has been saved.
+~ Move `main_dlg_cur` `proe_win` 9 609 294 0 0 1560 763 1920 1080 177821
+>M Chain_oa_sel_CB ProeWin0 609 294 c0 0 1560 0 0 763 1920 0 0 1080 13
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_549`
+~ Activate `file_saveas` `desktop_pb`
+~ Input `file_saveas` `Inputname` ``
+~ Input `file_saveas` `Inputname` `f`
+~ Input `file_saveas` `Inputname` `fr`
+~ Input `file_saveas` `Inputname` `fro`
+~ Input `file_saveas` `Inputname` `fron`
+~ Input `file_saveas` `Inputname` `front`
+~ Input `file_saveas` `Inputname` `front-`
+~ Input `file_saveas` `Inputname` `front`
+~ Input `file_saveas` `Inputname` `front_`
+~ Input `file_saveas` `Inputname` `front_a`
+~ Input `file_saveas` `Inputname` `front_at`
+~ Input `file_saveas` `Inputname` `front_att`
+~ Input `file_saveas` `Inputname` `front_atta`
+~ Input `file_saveas` `Inputname` `front_attac`
+~ Input `file_saveas` `Inputname` `front_attack`
+~ Input `file_saveas` `Inputname` `front_attack-`
+~ Input `file_saveas` `Inputname` `front_attack-2`
+~ Update `file_saveas` `Inputname` `front_attack-2`
+~ Activate `file_saveas` `Inputname`
+!%CI272 triangles have been written in output file front_attack-2.stl.
+~ Move `main_dlg_cur` `proe_win` 9 375 604 67108864 0 1560 763 1920 1080 233291
+~ Exit `main_dlg_cur` `proe_win` 9 375 604 67108864 0 1560 763 1920 1080 233428
+~ Move `main_dlg_cur` `proe_win` 9 637 379 67108864 0 1560 763 1920 1080 332246
+~ Exit `main_dlg_cur` `proe_win` 9 637 379 67108864 0 1560 763 1920 1080 332375
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Move `main_dlg_cur` `proe_win` 9 898 397 67108864 0 1560 763 1920 1080 360472
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+< 0 0.901926 1558 0 0 761 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 4 0.025950 0.025950 49.772011 26.417053
+~ Move `main_dlg_cur` `main_dlg_cur` 2 0.025950 0.025950
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
